@@ -1,1 +1,1 @@
-# Typewriter-Effect-in-JS
+Typewriter Effect in JS
